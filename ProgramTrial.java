@@ -9,4 +9,8 @@ class Calculator{
      double add = a+b;
      return add;
   }
+   public void subtract(double a, double b){
+     double sub = a-b;
+     return sub;
+  }
 }
